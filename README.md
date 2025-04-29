@@ -18,6 +18,14 @@ A Python script for converting EPUB files to AZW3 or MOBI format using Calibre's
 
 ## Usage
 
+### Installation and Usage
+
+#### Method 1: Using GitHub
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/epub-converter.git
+cd epub-converter
+
 ### Basic Usage
 
 ```bash
